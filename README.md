@@ -1,4 +1,4 @@
-# Full Stack Spotter - ELD Trip Planner & Log Generator
+# Spotter - ELD Trip Planner & Log Generator
 
 A full-stack application built with Django and React that calculates trip routes and generates Electronic Logging Device (ELD) daily log sheets for commercial drivers.
 
@@ -129,7 +129,7 @@ Calculate trip route and generate ELD logs.
 ## Project Structure
 
 ```
-FullStack_Spotter/
+Spotter/
 ├── backend/              # Django project settings
 ├── eld_api/              # Django app with API views
 ├── frontend/             # React application

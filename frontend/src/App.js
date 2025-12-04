@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>🚛 Full Stack Spotter</h1>
+        <h1>🚛 Spotter</h1>
         <p>ELD Trip Planner & Log Generator</p>
       </header>
       
